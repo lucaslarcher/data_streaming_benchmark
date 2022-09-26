@@ -1,0 +1,30 @@
+To all this works, first of all
+install all maven libraries
+
+is not working?
+
+to me no...
+
+sadly is not enoth
+
+some libs just not working from maven
+so i download and add 2 library jar dont working before
+spark-streaming_(version-scala)-(version-spark).jar
+spark-sql-kafka-0-10_(version-scala)-(version-spark).jar
+and add to project dependencies
+
+ok
+
+everithing working in inteliJ
+
+but structured streming no working of fat jar
+so i need this
+
+https://stackoverflow.com/questions/48011941/why-does-formatkafka-fail-with-failed-to-find-data-source-kafka-even-wi
+
+basicaly, in fat jar:
+kafka data sources uses its own
+META-INF/services/org.apache.spark.sql.sources.DataSourceRegister
+add that register
+org.apache.spark.sql.kafka010.KafkaSourceProvider
+now works

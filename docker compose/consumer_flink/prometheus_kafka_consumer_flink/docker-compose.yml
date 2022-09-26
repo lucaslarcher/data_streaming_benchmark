@@ -1,0 +1,17 @@
+version: '3'
+services:
+
+
+  consumer:
+    image: openjdk:11
+
+    ports:
+      - 9999:9999
+      - 8081:8081
+
+    volumes:
+      - ./flink:/flink
+      - ./start.sh:/start.sh
+
+    command: ['./start.sh']
+

@@ -1,0 +1,20 @@
+version: '3'
+services:
+
+
+# KAFKA DATA CONSUMER +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+
+  consumer:
+    image: openjdk:11
+
+    volumes:
+      - ./consumer.jar:/consumer.jar
+
+
+    command: ['timeout','15m','java','-jar', 'consumer.jar', '192.168.100.68:9092','groupidspark01','16','16'] #SPARK
+
+
+
+
+
+

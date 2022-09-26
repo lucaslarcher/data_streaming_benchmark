@@ -1,0 +1,5 @@
+install docker
+install docker compose
+do in a terminal "sudo docker-compose up --build"
+
+U can change producer and consumer conrting  u needs.

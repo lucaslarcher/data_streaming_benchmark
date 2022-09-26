@@ -1,0 +1,13 @@
+como: 12
+ola: 12
+oizinho: 6
+bonito: 6
+bem: 12
+voce: 12
+ta: 6
+vai?: 6
+tudo: 6
+oi: 12
+bem?: 6
+ola,: 6
+vai: 6

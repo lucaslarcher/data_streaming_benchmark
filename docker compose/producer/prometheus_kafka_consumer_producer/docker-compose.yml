@@ -1,0 +1,41 @@
+version: '3'
+services:
+
+  zookeeper:
+    image: wurstmeister/zookeeper
+    ports:
+      - "2182:2181"
+
+
+  kafka:
+    image: openjdk:8
+
+    ports:
+      - "9092:9092"
+      - "11020:11020"
+    volumes:
+      - ./kafka:/kafka
+
+    command: ['kafka/bin/kafka-server-start.sh','kafka/config/server.properties']
+
+    depends_on:
+      - zookeeper
+
+
+
+# KAFKA DATA PRODUCER +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+
+  kafka_producer:
+    image: openjdk:8
+
+    volumes:
+      - ./producer.jar:/producer.jar
+      - ./world_country_and_usa_states_latitude_and_longitude_values.csv:/world_country_and_usa_states_latitude_and_longitude_values.csv
+      - ./weatherHistory.csv:/weatherHistory.csv
+
+    command: ['timeout','30m','java','-jar', 'producer.jar', 'kafka:9092']
+
+    depends_on:
+      - kafka
+
+
