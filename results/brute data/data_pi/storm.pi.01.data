@@ -1,0 +1,46 @@
+ARGS => bootstrap_server group_id default_parallelism topic
+BootsTrap Server: 192.168.0.12:9092
+Gruop Id: stormgroupid01
+Parallelism: 4
+Topic: stream-topic
+16:02:14.855 [Thread-34-__system-executor[-1, -1]] WARN  o.a.s.m.c.CGroupMetricsBase - CGroupCpuStat is disabled. cpu is not a mounted subsystem
+16:02:14.913 [Thread-34-__system-executor[-1, -1]] WARN  o.a.s.m.c.CGroupMetricsBase - CGroupMemoryLimit is disabled. memory is not a mounted subsystem
+16:02:14.920 [Thread-34-__system-executor[-1, -1]] WARN  o.a.s.m.c.CGroupMetricsBase - CGroupCpuGuaranteeByCfsQuota is disabled. cpu is not a mounted subsystem
+16:02:14.935 [Thread-34-__system-executor[-1, -1]] WARN  o.a.s.m.c.CGroupMetricsBase - CGroupMemoryUsage is disabled. memory is not a mounted subsystem
+16:02:14.939 [Thread-34-__system-executor[-1, -1]] WARN  o.a.s.m.c.CGroupMetricsBase - CGroupCpu is disabled. cpuacct is not a mounted subsystem
+16:02:14.984 [Thread-34-__system-executor[-1, -1]] WARN  o.a.s.m.c.CGroupMetricsBase - CGroupCpuGuarantee is disabled. cpu is not a mounted subsystem
+16:02:16.372 [Thread-38-kafka_spout-executor[2, 2]] WARN  o.a.k.c.c.ConsumerConfig - The configuration 'topology.debug' was supplied but isn't a known config.
+16:02:41.315 [SyncThread:0] WARN  o.a.s.s.o.a.z.s.p.FileTxnLog - fsync-ing the write ahead log in SyncThread:0 took 3448ms which will adversely effect operation latency. File size is 67108880 bytes. See the ZooKeeper troubleshooting guide
+16:03:46 1000134
+16:04:07.600 [Curator-ConnectionStateManager-0] WARN  o.a.s.s.o.a.c.f.s.ConnectionStateManager - There are no ConnectionStateListeners registered.
+16:04:14.798 [time-trigger-policy-0] WARN  o.a.s.w.TimeEvictionPolicy - Possible clock drift or long running computation in window; Previous eviction time: 1661540644604, current eviction time: 1661540654797
+16:04:14.798 [time-trigger-policy-0] WARN  o.a.s.w.TimeEvictionPolicy - Possible clock drift or long running computation in window; Previous eviction time: 1661540644610, current eviction time: 1661540654796
+16:04:14.798 [time-trigger-policy-0] WARN  o.a.s.w.TimeEvictionPolicy - Possible clock drift or long running computation in window; Previous eviction time: 1661540644616, current eviction time: 1661540654796
+16:04:14.799 [time-trigger-policy-0] WARN  o.a.s.w.TimeEvictionPolicy - Possible clock drift or long running computation in window; Previous eviction time: 1661540644608, current eviction time: 1661540654796
+16:04:24.605 [time-trigger-policy-0] WARN  o.a.s.w.TimeEvictionPolicy - Possible clock drift or long running computation in window; Previous eviction time: 1661540654797, current eviction time: 1661540664604
+16:04:24.606 [time-trigger-policy-0] WARN  o.a.s.w.TimeEvictionPolicy - Possible clock drift or long running computation in window; Previous eviction time: 1661540654796, current eviction time: 1661540664605
+16:04:24.609 [time-trigger-policy-0] WARN  o.a.s.w.TimeEvictionPolicy - Possible clock drift or long running computation in window; Previous eviction time: 1661540654796, current eviction time: 1661540664608
+16:04:24.617 [time-trigger-policy-0] WARN  o.a.s.w.TimeEvictionPolicy - Possible clock drift or long running computation in window; Previous eviction time: 1661540654796, current eviction time: 1661540664616
+16:04:38 2000043
+16:04:55.664 [SyncThread:0] WARN  o.a.s.s.o.a.z.s.p.FileTxnLog - fsync-ing the write ahead log in SyncThread:0 took 1587ms which will adversely effect operation latency. File size is 67108880 bytes. See the ZooKeeper troubleshooting guide
+16:05:31 3000006
+16:06:23 4000000
+16:07:16 5000004
+16:07:38.223 [Curator-ConnectionStateManager-0] WARN  o.a.s.s.o.a.c.f.s.ConnectionStateManager - There are no ConnectionStateListeners registered.
+16:08:04 6000007
+16:08:57 7000005
+16:09:49 8000075
+16:10:41 9000247
+16:11:08.877 [SyncThread:0] WARN  o.a.s.s.o.a.z.s.p.FileTxnLog - fsync-ing the write ahead log in SyncThread:0 took 1537ms which will adversely effect operation latency. File size is 67108880 bytes. See the ZooKeeper troubleshooting guide
+16:11:32 10000006
+16:12:23 11000008
+16:13:13 12000025
+16:14:03 13000017
+16:14:53 14000004
+16:15:44 15000038
+16:16:37 16000008
+16:16:51.500 [SyncThread:0] WARN  o.a.s.s.o.a.z.s.p.FileTxnLog - fsync-ing the write ahead log in SyncThread:0 took 1186ms which will adversely effect operation latency. File size is 67108880 bytes. See the ZooKeeper troubleshooting guide
+16:16:54.731 [time-trigger-policy-0] WARN  o.a.s.w.TimeEvictionPolicy - Possible clock drift or long running computation in window; Previous eviction time: 1661541404616, current eviction time: 1661541414730
+16:16:54.739 [time-trigger-policy-0] WARN  o.a.s.w.TimeEvictionPolicy - Possible clock drift or long running computation in window; Previous eviction time: 1661541404604, current eviction time: 1661541414738
+16:16:54.739 [time-trigger-policy-0] WARN  o.a.s.w.TimeEvictionPolicy - Possible clock drift or long running computation in window; Previous eviction time: 1661541404608, current eviction time: 1661541414738
+16:16:54.745 [time-trigger-policy-0] WARN  o.a.s.w.TimeEvictionPolicy - Possible clock drift or long running computation in window; Previous eviction time: 1661541404605, current eviction time: 1661541414738
