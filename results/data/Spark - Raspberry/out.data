@@ -1,0 +1,1583 @@
+16:55:18 up  5:27,  5 users,  load average: 1.56, 0.67, 0.59
+CPU 0.0
+MEM 0.0
+16:55:21 up  5:27,  5 users,  load average: 1.52, 0.68, 0.60
+MiB Mem :   3794.5 total   1343.8 free    189.3 used   2261.4 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3528.7 avail Mem 
+CPU 0
+MEM 0
+16:55:24 up  5:27,  5 users,  load average: 1.48, 0.68, 0.60
+MiB Mem :   3794.5 total   1283.2 free    249.8 used   2261.5 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3468.2 avail Mem 
+CPU 141.6
+MEM 2.2
+16:55:27 up  5:27,  5 users,  load average: 1.48, 0.68, 0.60
+MiB Mem :   3794.5 total   1237.2 free    295.8 used   2261.5 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3422.2 avail Mem 
+CPU 220.9
+MEM 3.5
+16:55:30 up  5:28,  5 users,  load average: 1.60, 0.72, 0.61
+MiB Mem :   3794.5 total   1194.4 free    338.6 used   2261.5 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3379.5 avail Mem 
+CPU 216.6
+MEM 4.5
+16:55:33 up  5:28,  5 users,  load average: 1.60, 0.72, 0.61
+MiB Mem :   3794.5 total   1146.9 free    386.0 used   2261.5 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3332.0 avail Mem 
+CPU 234.4
+MEM 5.6
+16:55:37 up  5:28,  5 users,  load average: 1.87, 0.79, 0.64
+MiB Mem :   3794.5 total   1108.3 free    424.6 used   2261.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3293.5 avail Mem 
+CPU 261.9
+MEM 6.7
+16:55:40 up  5:28,  5 users,  load average: 2.20, 0.88, 0.66
+MiB Mem :   3794.5 total   1070.4 free    462.5 used   2261.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3255.5 avail Mem 
+CPU 353.9
+MEM 7.6
+16:55:43 up  5:28,  5 users,  load average: 2.20, 0.88, 0.66
+MiB Mem :   3794.5 total   1013.0 free    519.8 used   2261.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3198.2 avail Mem 
+CPU 379.6
+MEM 9.0
+16:55:46 up  5:28,  5 users,  load average: 2.51, 0.96, 0.69
+MiB Mem :   3794.5 total    979.4 free    553.4 used   2261.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3164.6 avail Mem 
+CPU 382.2
+MEM 9.9
+16:55:49 up  5:28,  5 users,  load average: 2.51, 0.96, 0.69
+MiB Mem :   3794.5 total    977.1 free    555.7 used   2261.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3162.3 avail Mem 
+CPU 374.3
+MEM 10.0
+16:55:52 up  5:28,  5 users,  load average: 2.79, 1.05, 0.72
+MiB Mem :   3794.5 total    969.7 free    563.1 used   2261.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3154.9 avail Mem 
+CPU 382.4
+MEM 10.2
+16:55:55 up  5:28,  5 users,  load average: 3.04, 1.13, 0.75
+MiB Mem :   3794.5 total    965.7 free    567.1 used   2261.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3150.9 avail Mem 
+CPU 386.8
+MEM 10.3
+16:55:58 up  5:28,  5 users,  load average: 3.04, 1.13, 0.75
+MiB Mem :   3794.5 total    927.2 free    605.6 used   2261.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3112.4 avail Mem 
+CPU 379.2
+MEM 11.3
+16:56:01 up  5:28,  5 users,  load average: 3.12, 1.18, 0.77
+MiB Mem :   3794.5 total    927.7 free    605.0 used   2261.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3113.0 avail Mem 
+CPU 375.9
+MEM 11.3
+16:56:04 up  5:28,  5 users,  load average: 3.12, 1.18, 0.77
+MiB Mem :   3794.5 total    894.0 free    638.8 used   2261.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3079.2 avail Mem 
+CPU 373.2
+MEM 12.1
+16:56:07 up  5:28,  5 users,  load average: 3.19, 1.23, 0.79
+MiB Mem :   3794.5 total    893.8 free    638.9 used   2261.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3079.1 avail Mem 
+CPU 364.9
+MEM 12.1
+16:56:10 up  5:28,  5 users,  load average: 3.26, 1.27, 0.80
+MiB Mem :   3794.5 total    907.0 free    625.7 used   2261.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3092.3 avail Mem 
+CPU 365.2
+MEM 11.9
+16:56:13 up  5:28,  5 users,  load average: 3.26, 1.27, 0.80
+MiB Mem :   3794.5 total    906.0 free    626.7 used   2261.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3091.3 avail Mem 
+CPU 363.9
+MEM 11.9
+16:56:16 up  5:28,  5 users,  load average: 3.32, 1.32, 0.82
+MiB Mem :   3794.5 total    903.1 free    629.6 used   2261.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3088.4 avail Mem 
+CPU 366.6
+MEM 11.9
+16:56:19 up  5:28,  5 users,  load average: 3.45, 1.38, 0.84
+MiB Mem :   3794.5 total    904.4 free    628.3 used   2261.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3089.7 avail Mem 
+CPU 368.6
+MEM 11.9
+16:56:22 up  5:28,  5 users,  load average: 3.45, 1.38, 0.84
+MiB Mem :   3794.5 total    902.9 free    629.8 used   2261.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3088.3 avail Mem 
+CPU 365.2
+MEM 11.9
+16:56:25 up  5:28,  5 users,  load average: 3.50, 1.42, 0.86
+MiB Mem :   3794.5 total    903.5 free    629.1 used   2261.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3088.9 avail Mem 
+CPU 372.0
+MEM 11.9
+16:56:28 up  5:28,  5 users,  load average: 3.50, 1.42, 0.86
+MiB Mem :   3794.5 total    903.1 free    629.5 used   2261.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3088.5 avail Mem 
+CPU 362.8
+MEM 11.9
+16:56:31 up  5:29,  5 users,  load average: 3.54, 1.47, 0.88
+MiB Mem :   3794.5 total    901.0 free    631.7 used   2261.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3086.4 avail Mem 
+CPU 362.6
+MEM 11.9
+16:56:34 up  5:29,  5 users,  load average: 3.57, 1.51, 0.89
+MiB Mem :   3794.5 total    870.2 free    662.5 used   2261.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3055.6 avail Mem 
+CPU 365.1
+MEM 12.7
+16:56:37 up  5:29,  5 users,  load average: 3.57, 1.51, 0.89
+MiB Mem :   3794.5 total    871.1 free    661.5 used   2261.9 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3056.5 avail Mem 
+CPU 370.0
+MEM 12.7
+16:56:40 up  5:29,  5 users,  load average: 3.61, 1.55, 0.91
+MiB Mem :   3794.5 total    877.1 free    660.6 used   2256.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3057.4 avail Mem 
+CPU 364.1
+MEM 12.7
+16:56:43 up  5:29,  5 users,  load average: 3.61, 1.55, 0.91
+MiB Mem :   3794.5 total    875.2 free    662.4 used   2256.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3055.6 avail Mem 
+CPU 369.4
+MEM 12.7
+16:56:46 up  5:29,  5 users,  load average: 3.56, 1.57, 0.92
+MiB Mem :   3794.5 total    879.9 free    668.5 used   2246.1 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3049.5 avail Mem 
+CPU 370.2
+MEM 12.9
+16:56:49 up  5:29,  5 users,  load average: 3.59, 1.61, 0.94
+MiB Mem :   3794.5 total    881.5 free    666.9 used   2246.1 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3051.2 avail Mem 
+CPU 363.0
+MEM 12.9
+16:56:52 up  5:29,  5 users,  load average: 3.59, 1.61, 0.94
+MiB Mem :   3794.5 total    883.8 free    664.6 used   2246.1 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3053.4 avail Mem 
+CPU 370.7
+MEM 12.8
+16:56:55 up  5:29,  5 users,  load average: 3.63, 1.65, 0.96
+MiB Mem :   3794.5 total    890.9 free    657.5 used   2246.1 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3060.5 avail Mem 
+CPU 367.3
+MEM 12.8
+16:56:58 up  5:29,  5 users,  load average: 3.63, 1.65, 0.96
+MiB Mem :   3794.5 total    889.4 free    659.0 used   2246.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3059.1 avail Mem 
+CPU 369.0
+MEM 12.8
+16:57:01 up  5:29,  5 users,  load average: 3.74, 1.71, 0.98
+MiB Mem :   3794.5 total    885.6 free    662.7 used   2246.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3055.4 avail Mem 
+CPU 368.8
+MEM 12.8
+16:57:05 up  5:29,  5 users,  load average: 3.84, 1.77, 1.00
+MiB Mem :   3794.5 total    883.8 free    664.5 used   2246.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3053.5 avail Mem 
+CPU 368.6
+MEM 12.8
+16:57:08 up  5:29,  5 users,  load average: 3.84, 1.77, 1.00
+MiB Mem :   3794.5 total    886.3 free    662.0 used   2246.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3056.0 avail Mem 
+CPU 369.2
+MEM 12.8
+16:57:11 up  5:29,  5 users,  load average: 3.85, 1.80, 1.02
+MiB Mem :   3794.5 total    887.7 free    660.6 used   2246.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3057.4 avail Mem 
+CPU 363.4
+MEM 12.8
+16:57:14 up  5:29,  5 users,  load average: 3.85, 1.80, 1.02
+MiB Mem :   3794.5 total    886.5 free    661.8 used   2246.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3056.2 avail Mem 
+CPU 364.9
+MEM 12.8
+16:57:17 up  5:29,  5 users,  load average: 3.86, 1.84, 1.03
+MiB Mem :   3794.5 total    887.9 free    660.3 used   2246.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3057.7 avail Mem 
+CPU 359.2
+MEM 12.8
+16:57:20 up  5:29,  5 users,  load average: 3.88, 1.87, 1.05
+MiB Mem :   3794.5 total    889.8 free    658.5 used   2246.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3059.6 avail Mem 
+CPU 369.4
+MEM 12.8
+16:57:23 up  5:29,  5 users,  load average: 3.88, 1.87, 1.05
+MiB Mem :   3794.5 total    888.3 free    659.9 used   2246.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3058.1 avail Mem 
+CPU 367.3
+MEM 12.8
+16:57:26 up  5:29,  5 users,  load average: 3.89, 1.91, 1.06
+MiB Mem :   3794.5 total    885.8 free    662.4 used   2246.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3055.6 avail Mem 
+CPU 369.8
+MEM 12.8
+16:57:29 up  5:30,  5 users,  load average: 3.89, 1.91, 1.06
+MiB Mem :   3794.5 total    887.8 free    660.4 used   2246.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3057.7 avail Mem 
+CPU 369.6
+MEM 12.8
+16:57:32 up  5:30,  5 users,  load average: 3.81, 1.93, 1.08
+MiB Mem :   3794.5 total    889.9 free    658.3 used   2246.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3059.7 avail Mem 
+CPU 366.6
+MEM 12.8
+16:57:35 up  5:30,  5 users,  load average: 3.83, 1.96, 1.09
+MiB Mem :   3794.5 total    885.2 free    663.0 used   2246.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3055.0 avail Mem 
+CPU 368.5
+MEM 12.8
+16:57:38 up  5:30,  5 users,  load average: 3.83, 1.96, 1.09
+MiB Mem :   3794.5 total    887.9 free    660.3 used   2246.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3057.7 avail Mem 
+CPU 366.8
+MEM 12.8
+16:57:41 up  5:30,  5 users,  load average: 3.76, 1.98, 1.10
+MiB Mem :   3794.5 total    886.1 free    662.1 used   2246.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3055.9 avail Mem 
+CPU 361.4
+MEM 12.8
+16:57:44 up  5:30,  5 users,  load average: 3.76, 1.98, 1.10
+MiB Mem :   3794.5 total    884.9 free    663.2 used   2246.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3054.8 avail Mem 
+CPU 370.6
+MEM 12.8
+16:57:47 up  5:30,  5 users,  load average: 3.78, 2.02, 1.12
+MiB Mem :   3794.5 total    885.9 free    662.2 used   2246.4 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3055.8 avail Mem 
+CPU 368.3
+MEM 12.8
+16:57:50 up  5:30,  5 users,  load average: 3.80, 2.05, 1.13
+MiB Mem :   3794.5 total    883.3 free    664.8 used   2246.4 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3053.2 avail Mem 
+CPU 356.1
+MEM 12.8
+16:57:53 up  5:30,  5 users,  load average: 3.80, 2.05, 1.13
+MiB Mem :   3794.5 total    888.1 free    659.9 used   2246.4 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3058.1 avail Mem 
+CPU 369.0
+MEM 12.8
+16:57:56 up  5:30,  5 users,  load average: 3.82, 2.08, 1.15
+MiB Mem :   3794.5 total    885.9 free    662.2 used   2246.4 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3055.8 avail Mem 
+CPU 361.4
+MEM 12.8
+16:57:59 up  5:30,  5 users,  load average: 3.67, 2.08, 1.15
+MiB Mem :   3794.5 total    889.4 free    658.6 used   2246.4 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3059.4 avail Mem 
+CPU 363.2
+MEM 12.8
+16:58:02 up  5:30,  5 users,  load average: 3.67, 2.08, 1.15
+MiB Mem :   3794.5 total    886.5 free    661.6 used   2246.5 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3056.4 avail Mem 
+CPU 365.0
+MEM 12.8
+16:58:05 up  5:30,  5 users,  load average: 3.70, 2.11, 1.17
+MiB Mem :   3794.5 total    885.7 free    662.3 used   2246.5 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3055.7 avail Mem 
+CPU 368.0
+MEM 12.8
+16:58:08 up  5:30,  5 users,  load average: 3.70, 2.11, 1.17
+MiB Mem :   3794.5 total    884.1 free    663.9 used   2246.5 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3054.0 avail Mem 
+CPU 362.0
+MEM 12.8
+16:58:11 up  5:30,  5 users,  load average: 3.64, 2.13, 1.18
+MiB Mem :   3794.5 total    884.4 free    663.5 used   2246.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3054.5 avail Mem 
+CPU 363.0
+MEM 12.8
+16:58:14 up  5:30,  5 users,  load average: 3.67, 2.16, 1.20
+MiB Mem :   3794.5 total    882.9 free    665.0 used   2246.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3053.0 avail Mem 
+CPU 367.8
+MEM 12.8
+16:58:17 up  5:30,  5 users,  load average: 3.67, 2.16, 1.20
+MiB Mem :   3794.5 total    885.3 free    662.5 used   2246.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3055.5 avail Mem 
+CPU 362.0
+MEM 12.8
+16:58:20 up  5:30,  5 users,  load average: 3.54, 2.16, 1.20
+MiB Mem :   3794.5 total    887.7 free    660.2 used   2246.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3057.8 avail Mem 
+CPU 363.4
+MEM 12.8
+16:58:23 up  5:30,  5 users,  load average: 3.54, 2.16, 1.20
+MiB Mem :   3794.5 total    888.6 free    659.0 used   2246.9 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3059.1 avail Mem 
+CPU 357.0
+MEM 12.8
+16:58:26 up  5:30,  5 users,  load average: 3.33, 2.14, 1.20
+MiB Mem :   3794.5 total    883.2 free    664.4 used   2246.9 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3053.6 avail Mem 
+CPU 368.0
+MEM 12.8
+16:58:30 up  5:31,  5 users,  load average: 3.39, 2.17, 1.21
+MiB Mem :   3794.5 total    885.0 free    662.6 used   2246.9 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3055.4 avail Mem 
+CPU 365.3
+MEM 12.8
+16:58:33 up  5:31,  5 users,  load average: 3.39, 2.17, 1.21
+MiB Mem :   3794.5 total    882.6 free    664.9 used   2247.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3053.1 avail Mem 
+CPU 369.6
+MEM 12.8
+16:58:36 up  5:31,  5 users,  load average: 3.44, 2.20, 1.23
+MiB Mem :   3794.5 total    884.5 free    663.0 used   2247.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3055.0 avail Mem 
+CPU 366.1
+MEM 12.8
+16:58:39 up  5:31,  5 users,  load average: 3.44, 2.20, 1.23
+MiB Mem :   3794.5 total    880.7 free    666.8 used   2247.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3051.2 avail Mem 
+CPU 366.3
+MEM 12.8
+16:58:42 up  5:31,  5 users,  load average: 3.48, 2.23, 1.24
+MiB Mem :   3794.5 total    885.9 free    661.6 used   2247.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3056.4 avail Mem 
+CPU 368.3
+MEM 12.8
+16:58:45 up  5:31,  5 users,  load average: 3.44, 2.24, 1.25
+MiB Mem :   3794.5 total    883.0 free    664.5 used   2247.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3053.5 avail Mem 
+CPU 365.7
+MEM 12.8
+16:58:48 up  5:31,  5 users,  load average: 3.44, 2.24, 1.25
+MiB Mem :   3794.5 total    887.9 free    659.6 used   2247.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3058.4 avail Mem 
+CPU 367.9
+MEM 12.8
+16:58:51 up  5:31,  5 users,  load average: 3.65, 2.30, 1.28
+MiB Mem :   3794.5 total    880.4 free    667.1 used   2247.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3051.0 avail Mem 
+CPU 363.4
+MEM 12.8
+16:58:54 up  5:31,  5 users,  load average: 3.65, 2.30, 1.28
+MiB Mem :   3794.5 total    884.7 free    662.8 used   2247.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3055.2 avail Mem 
+CPU 360.4
+MEM 12.8
+16:58:57 up  5:31,  5 users,  load average: 3.68, 2.33, 1.29
+MiB Mem :   3794.5 total    886.4 free    661.0 used   2247.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3057.0 avail Mem 
+CPU 369.3
+MEM 12.8
+16:59:00 up  5:31,  5 users,  load average: 3.70, 2.36, 1.31
+MiB Mem :   3794.5 total    886.5 free    661.0 used   2247.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3057.0 avail Mem 
+CPU 368.1
+MEM 12.8
+16:59:03 up  5:31,  5 users,  load average: 3.70, 2.36, 1.31
+MiB Mem :   3794.5 total    883.3 free    664.2 used   2247.1 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3053.9 avail Mem 
+CPU 364.6
+MEM 12.8
+16:59:06 up  5:31,  5 users,  load average: 3.73, 2.39, 1.32
+MiB Mem :   3794.5 total    884.3 free    663.1 used   2247.1 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3054.9 avail Mem 
+CPU 366.6
+MEM 12.8
+16:59:09 up  5:31,  5 users,  load average: 3.73, 2.39, 1.32
+MiB Mem :   3794.5 total    882.3 free    665.1 used   2247.1 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3052.9 avail Mem 
+CPU 365.3
+MEM 12.8
+16:59:12 up  5:31,  5 users,  load average: 3.75, 2.41, 1.34
+MiB Mem :   3794.5 total    882.3 free    665.0 used   2247.1 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3053.0 avail Mem 
+CPU 368.0
+MEM 12.8
+16:59:15 up  5:31,  5 users,  load average: 3.77, 2.44, 1.35
+MiB Mem :   3794.5 total    884.1 free    663.3 used   2247.1 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3054.7 avail Mem 
+CPU 373.6
+MEM 12.8
+16:59:18 up  5:31,  5 users,  load average: 3.77, 2.44, 1.35
+MiB Mem :   3794.5 total    879.6 free    667.8 used   2247.1 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3050.2 avail Mem 
+CPU 363.2
+MEM 12.8
+16:59:21 up  5:31,  5 users,  load average: 3.79, 2.47, 1.37
+MiB Mem :   3794.5 total    882.9 free    664.4 used   2247.1 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3053.6 avail Mem 
+CPU 367.8
+MEM 12.8
+16:59:24 up  5:31,  5 users,  load average: 3.79, 2.47, 1.37
+MiB Mem :   3794.5 total    879.3 free    668.0 used   2247.1 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3050.0 avail Mem 
+CPU 367.5
+MEM 12.9
+16:59:27 up  5:31,  5 users,  load average: 3.80, 2.49, 1.38
+MiB Mem :   3794.5 total    882.1 free    665.2 used   2247.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3052.8 avail Mem 
+CPU 368.3
+MEM 12.9
+16:59:30 up  5:32,  5 users,  load average: 3.82, 2.52, 1.40
+MiB Mem :   3794.5 total    883.7 free    663.7 used   2247.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3054.4 avail Mem 
+CPU 367.5
+MEM 12.9
+16:59:33 up  5:32,  5 users,  load average: 3.82, 2.52, 1.40
+MiB Mem :   3794.5 total    878.5 free    668.8 used   2247.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3049.2 avail Mem 
+CPU 362.2
+MEM 12.9
+16:59:36 up  5:32,  5 users,  load average: 3.84, 2.54, 1.41
+MiB Mem :   3794.5 total    885.1 free    662.3 used   2247.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3055.8 avail Mem 
+CPU 364.7
+MEM 12.9
+16:59:39 up  5:32,  5 users,  load average: 3.85, 2.57, 1.42
+MiB Mem :   3794.5 total    884.2 free    663.1 used   2247.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3055.0 avail Mem 
+CPU 373.5
+MEM 12.9
+16:59:42 up  5:32,  5 users,  load average: 3.85, 2.57, 1.42
+MiB Mem :   3794.5 total    881.7 free    665.6 used   2247.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3052.4 avail Mem 
+CPU 362.5
+MEM 12.9
+16:59:45 up  5:32,  5 users,  load average: 3.86, 2.59, 1.44
+MiB Mem :   3794.5 total    879.6 free    667.7 used   2247.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3050.3 avail Mem 
+CPU 362.0
+MEM 12.9
+16:59:48 up  5:32,  5 users,  load average: 3.86, 2.59, 1.44
+MiB Mem :   3794.5 total    878.3 free    669.0 used   2247.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3049.0 avail Mem 
+CPU 369.3
+MEM 12.9
+16:59:51 up  5:32,  5 users,  load average: 3.87, 2.61, 1.45
+MiB Mem :   3794.5 total    881.5 free    665.7 used   2247.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3052.3 avail Mem 
+CPU 364.7
+MEM 12.9
+16:59:54 up  5:32,  5 users,  load average: 3.88, 2.64, 1.47
+MiB Mem :   3794.5 total    883.7 free    663.5 used   2247.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3054.5 avail Mem 
+CPU 369.9
+MEM 12.9
+16:59:57 up  5:32,  5 users,  load average: 3.88, 2.64, 1.47
+MiB Mem :   3794.5 total    883.6 free    663.7 used   2247.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3054.3 avail Mem 
+CPU 364.1
+MEM 12.9
+17:00:00 up  5:32,  5 users,  load average: 4.05, 2.69, 1.49
+MiB Mem :   3794.5 total    879.3 free    668.0 used   2247.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3050.0 avail Mem 
+CPU 368.3
+MEM 12.9
+17:00:03 up  5:32,  5 users,  load average: 4.05, 2.69, 1.49
+MiB Mem :   3794.5 total    877.3 free    669.9 used   2247.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3048.1 avail Mem 
+CPU 365.0
+MEM 12.9
+17:00:06 up  5:32,  5 users,  load average: 3.97, 2.70, 1.50
+MiB Mem :   3794.5 total    879.9 free    667.3 used   2247.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3050.7 avail Mem 
+CPU 372.3
+MEM 12.9
+17:00:09 up  5:32,  5 users,  load average: 3.97, 2.72, 1.51
+MiB Mem :   3794.5 total    880.4 free    666.8 used   2247.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3051.2 avail Mem 
+CPU 359.7
+MEM 12.9
+17:00:13 up  5:32,  5 users,  load average: 3.97, 2.72, 1.51
+MiB Mem :   3794.5 total    881.0 free    666.2 used   2247.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3051.8 avail Mem 
+CPU 369.1
+MEM 12.9
+17:00:16 up  5:32,  5 users,  load average: 3.97, 2.74, 1.53
+MiB Mem :   3794.5 total    880.4 free    666.8 used   2247.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3051.2 avail Mem 
+CPU 364.7
+MEM 12.9
+17:00:19 up  5:32,  5 users,  load average: 3.97, 2.74, 1.53
+MiB Mem :   3794.5 total    882.1 free    665.1 used   2247.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3053.0 avail Mem 
+CPU 369.3
+MEM 12.9
+17:00:22 up  5:32,  5 users,  load average: 3.98, 2.76, 1.54
+MiB Mem :   3794.5 total    880.7 free    666.5 used   2247.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3051.5 avail Mem 
+CPU 366.1
+MEM 12.9
+17:00:25 up  5:32,  5 users,  load average: 3.98, 2.79, 1.55
+MiB Mem :   3794.5 total    877.8 free    669.4 used   2247.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3048.7 avail Mem 
+CPU 370.0
+MEM 12.9
+17:00:28 up  5:32,  5 users,  load average: 3.98, 2.79, 1.55
+MiB Mem :   3794.5 total    880.3 free    666.9 used   2247.4 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3051.1 avail Mem 
+CPU 372.2
+MEM 12.9
+17:00:31 up  5:33,  5 users,  load average: 3.98, 2.81, 1.57
+MiB Mem :   3794.5 total    882.1 free    665.0 used   2247.4 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3053.0 avail Mem 
+CPU 365.1
+MEM 12.9
+17:00:34 up  5:33,  5 users,  load average: 3.98, 2.81, 1.57
+MiB Mem :   3794.5 total    875.3 free    671.8 used   2247.4 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3046.2 avail Mem 
+CPU 369.0
+MEM 13.0
+17:00:37 up  5:33,  5 users,  load average: 3.98, 2.83, 1.58
+MiB Mem :   3794.5 total    877.6 free    669.5 used   2247.4 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3048.5 avail Mem 
+CPU 369.0
+MEM 13.0
+17:00:40 up  5:33,  5 users,  load average: 3.98, 2.85, 1.59
+MiB Mem :   3794.5 total    873.7 free    673.4 used   2247.4 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3044.6 avail Mem 
+CPU 369.3
+MEM 13.0
+17:00:43 up  5:33,  5 users,  load average: 3.98, 2.85, 1.59
+MiB Mem :   3794.5 total    877.5 free    669.6 used   2247.4 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3048.4 avail Mem 
+CPU 374.7
+MEM 13.0
+17:00:46 up  5:33,  5 users,  load average: 3.98, 2.86, 1.61
+MiB Mem :   3794.5 total    879.2 free    667.9 used   2247.4 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3050.1 avail Mem 
+CPU 362.3
+MEM 13.0
+17:00:49 up  5:33,  5 users,  load average: 3.98, 2.86, 1.61
+MiB Mem :   3794.5 total    878.3 free    668.7 used   2247.5 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3049.3 avail Mem 
+CPU 369.8
+MEM 13.0
+17:00:52 up  5:33,  5 users,  load average: 3.99, 2.88, 1.62
+MiB Mem :   3794.5 total    877.1 free    669.9 used   2247.5 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3048.1 avail Mem 
+CPU 366.9
+MEM 13.0
+17:00:55 up  5:33,  5 users,  load average: 3.75, 2.85, 1.62
+MiB Mem :   3794.5 total    876.2 free    670.8 used   2247.5 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3047.2 avail Mem 
+CPU 366.7
+MEM 13.0
+17:00:58 up  5:33,  5 users,  load average: 3.75, 2.85, 1.62
+MiB Mem :   3794.5 total    877.1 free    669.9 used   2247.5 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3048.1 avail Mem 
+CPU 361.1
+MEM 13.0
+17:01:01 up  5:33,  5 users,  load average: 3.85, 2.89, 1.63
+MiB Mem :   3794.5 total    877.1 free    669.9 used   2247.5 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3048.1 avail Mem 
+CPU 371.7
+MEM 13.0
+17:01:04 up  5:33,  5 users,  load average: 3.85, 2.89, 1.63
+MiB Mem :   3794.5 total    881.1 free    665.9 used   2247.5 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3052.1 avail Mem 
+CPU 363.4
+MEM 13.0
+17:01:07 up  5:33,  5 users,  load average: 3.86, 2.91, 1.65
+MiB Mem :   3794.5 total    877.5 free    669.5 used   2247.5 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3048.6 avail Mem 
+CPU 369.2
+MEM 13.0
+17:01:10 up  5:33,  5 users,  load average: 3.79, 2.91, 1.66
+MiB Mem :   3794.5 total    875.9 free    671.1 used   2247.5 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3047.0 avail Mem 
+CPU 362.2
+MEM 13.0
+17:01:13 up  5:33,  5 users,  load average: 3.79, 2.91, 1.66
+MiB Mem :   3794.5 total    876.5 free    670.5 used   2247.5 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3047.6 avail Mem 
+CPU 367.0
+MEM 13.0
+17:01:16 up  5:33,  5 users,  load average: 3.73, 2.91, 1.66
+MiB Mem :   3794.5 total    879.8 free    667.2 used   2247.5 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3050.8 avail Mem 
+CPU 364.6
+MEM 13.0
+17:01:19 up  5:33,  5 users,  load average: 3.75, 2.93, 1.68
+MiB Mem :   3794.5 total    874.3 free    672.6 used   2247.5 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3045.4 avail Mem 
+CPU 373.3
+MEM 13.0
+17:01:22 up  5:33,  5 users,  load average: 3.75, 2.93, 1.68
+MiB Mem :   3794.5 total    876.0 free    670.9 used   2247.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3047.1 avail Mem 
+CPU 369.2
+MEM 13.0
+17:01:25 up  5:33,  5 users,  load average: 3.77, 2.95, 1.69
+MiB Mem :   3794.5 total    877.6 free    669.3 used   2247.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3048.7 avail Mem 
+CPU 362.6
+MEM 13.0
+17:01:28 up  5:34,  5 users,  load average: 3.77, 2.95, 1.69
+MiB Mem :   3794.5 total    877.4 free    669.5 used   2247.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3048.5 avail Mem 
+CPU 368.5
+MEM 13.0
+17:01:31 up  5:34,  5 users,  load average: 3.55, 2.91, 1.68
+MiB Mem :   3794.5 total    877.0 free    669.9 used   2247.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3048.2 avail Mem 
+CPU 366.4
+MEM 13.0
+17:01:34 up  5:34,  5 users,  load average: 3.58, 2.93, 1.70
+MiB Mem :   3794.5 total    877.6 free    669.3 used   2247.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3048.7 avail Mem 
+CPU 364.4
+MEM 13.0
+17:01:37 up  5:34,  5 users,  load average: 3.58, 2.93, 1.70
+MiB Mem :   3794.5 total    876.9 free    670.0 used   2247.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3048.0 avail Mem 
+CPU 367.7
+MEM 13.0
+17:01:41 up  5:34,  5 users,  load average: 3.62, 2.95, 1.71
+MiB Mem :   3794.5 total    875.7 free    671.1 used   2247.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3046.9 avail Mem 
+CPU 368.3
+MEM 13.0
+17:01:44 up  5:34,  5 users,  load average: 3.62, 2.95, 1.71
+MiB Mem :   3794.5 total    875.4 free    671.4 used   2247.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3046.6 avail Mem 
+CPU 368.2
+MEM 13.0
+17:01:47 up  5:34,  5 users,  load average: 3.65, 2.97, 1.72
+MiB Mem :   3794.5 total    877.1 free    669.7 used   2247.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3048.3 avail Mem 
+CPU 363.4
+MEM 13.0
+17:01:50 up  5:34,  5 users,  load average: 3.60, 2.97, 1.73
+MiB Mem :   3794.5 total    874.6 free    672.2 used   2247.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3045.8 avail Mem 
+CPU 367.5
+MEM 13.0
+17:01:53 up  5:34,  5 users,  load average: 3.60, 2.97, 1.73
+MiB Mem :   3794.5 total    876.6 free    670.2 used   2247.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3047.8 avail Mem 
+CPU 365.0
+MEM 13.0
+17:01:56 up  5:34,  5 users,  load average: 3.55, 2.97, 1.74
+MiB Mem :   3794.5 total    873.1 free    673.7 used   2247.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3044.3 avail Mem 
+CPU 364.6
+MEM 13.0
+17:01:59 up  5:34,  5 users,  load average: 3.55, 2.97, 1.74
+MiB Mem :   3794.5 total    876.7 free    670.1 used   2247.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3047.9 avail Mem 
+CPU 365.3
+MEM 13.0
+17:02:02 up  5:34,  5 users,  load average: 3.58, 2.99, 1.75
+MiB Mem :   3794.5 total    876.1 free    670.7 used   2247.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3047.4 avail Mem 
+CPU 367.9
+MEM 13.0
+17:02:05 up  5:34,  5 users,  load average: 3.62, 3.00, 1.76
+MiB Mem :   3794.5 total    876.4 free    670.4 used   2247.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3047.4 avail Mem 
+CPU 366.7
+MEM 13.0
+17:02:08 up  5:34,  5 users,  load average: 3.62, 3.00, 1.76
+MiB Mem :   3794.5 total    875.5 free    671.3 used   2247.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3046.7 avail Mem 
+CPU 367.7
+MEM 13.0
+17:02:11 up  5:34,  5 users,  load average: 3.73, 3.04, 1.78
+MiB Mem :   3794.5 total    875.1 free    671.7 used   2247.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3046.3 avail Mem 
+CPU 367.9
+MEM 13.0
+17:02:14 up  5:34,  5 users,  load average: 3.67, 3.04, 1.79
+MiB Mem :   3794.5 total    871.2 free    679.9 used   2243.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3038.1 avail Mem 
+CPU 364.2
+MEM 13.1
+17:02:17 up  5:34,  5 users,  load average: 3.67, 3.04, 1.79
+MiB Mem :   3794.5 total    876.5 free    674.7 used   2243.4 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3043.3 avail Mem 
+CPU 364.1
+MEM 13.1
+17:02:20 up  5:34,  5 users,  load average: 3.62, 3.04, 1.79
+MiB Mem :   3794.5 total    877.0 free    674.1 used   2243.4 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3043.9 avail Mem 
+CPU 366.0
+MEM 13.0
+17:02:23 up  5:34,  5 users,  load average: 3.62, 3.04, 1.79
+MiB Mem :   3794.5 total    874.7 free    676.4 used   2243.4 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3041.6 avail Mem 
+CPU 370.6
+MEM 13.0
+17:02:27 up  5:34,  5 users,  load average: 3.65, 3.05, 1.80
+MiB Mem :   3794.5 total    873.5 free    677.6 used   2243.4 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3040.4 avail Mem 
+CPU 366.4
+MEM 13.0
+17:02:30 up  5:35,  5 users,  load average: 3.60, 3.05, 1.81
+MiB Mem :   3794.5 total    875.6 free    675.5 used   2243.4 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3042.5 avail Mem 
+CPU 369.5
+MEM 13.0
+17:02:33 up  5:35,  5 users,  load average: 3.60, 3.05, 1.81
+MiB Mem :   3794.5 total    874.0 free    677.0 used   2243.4 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3041.0 avail Mem 
+CPU 364.7
+MEM 13.0
+17:02:36 up  5:35,  5 users,  load average: 3.63, 3.07, 1.82
+MiB Mem :   3794.5 total    875.0 free    676.1 used   2243.4 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3042.0 avail Mem 
+CPU 366.3
+MEM 13.0
+17:02:39 up  5:35,  5 users,  load average: 3.63, 3.07, 1.82
+MiB Mem :   3794.5 total    876.2 free    674.9 used   2243.4 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3043.1 avail Mem 
+CPU 366.8
+MEM 13.0
+17:02:42 up  5:35,  5 users,  load average: 3.50, 3.05, 1.82
+MiB Mem :   3794.5 total    874.9 free    676.2 used   2243.4 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3041.9 avail Mem 
+CPU 369.4
+MEM 13.0
+17:02:45 up  5:35,  5 users,  load average: 3.46, 3.05, 1.83
+MiB Mem :   3794.5 total    877.2 free    673.9 used   2243.4 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3044.2 avail Mem 
+CPU 368.3
+MEM 13.0
+17:02:48 up  5:35,  5 users,  load average: 3.46, 3.05, 1.83
+MiB Mem :   3794.5 total    878.8 free    672.2 used   2243.5 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3045.8 avail Mem 
+CPU 371.6
+MEM 13.0
+17:02:51 up  5:35,  5 users,  load average: 3.50, 3.06, 1.84
+MiB Mem :   3794.5 total    879.4 free    671.7 used   2243.5 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3046.4 avail Mem 
+CPU 366.1
+MEM 13.0
+17:02:54 up  5:35,  5 users,  load average: 3.50, 3.06, 1.84
+MiB Mem :   3794.5 total    873.7 free    677.3 used   2243.5 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3040.7 avail Mem 
+CPU 364.5
+MEM 13.0
+17:02:57 up  5:35,  5 users,  load average: 3.54, 3.08, 1.85
+MiB Mem :   3794.5 total    876.7 free    674.3 used   2243.5 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3043.7 avail Mem 
+CPU 368.5
+MEM 13.0
+17:03:00 up  5:35,  5 users,  load average: 3.58, 3.10, 1.87
+MiB Mem :   3794.5 total    873.8 free    677.2 used   2243.5 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3040.8 avail Mem 
+CPU 364.0
+MEM 13.0
+17:03:03 up  5:35,  5 users,  load average: 3.58, 3.10, 1.87
+MiB Mem :   3794.5 total    877.6 free    673.4 used   2243.5 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3044.7 avail Mem 
+CPU 365.7
+MEM 13.0
+17:03:06 up  5:35,  5 users,  load average: 3.61, 3.11, 1.88
+MiB Mem :   3794.5 total    875.4 free    675.5 used   2243.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3042.5 avail Mem 
+CPU 369.3
+MEM 13.1
+17:03:09 up  5:35,  5 users,  load average: 3.61, 3.11, 1.88
+MiB Mem :   3794.5 total    874.4 free    676.5 used   2243.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3041.5 avail Mem 
+CPU 365.0
+MEM 13.1
+17:03:12 up  5:35,  5 users,  load average: 3.64, 3.13, 1.89
+MiB Mem :   3794.5 total    877.4 free    673.5 used   2243.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3044.5 avail Mem 
+CPU 369.0
+MEM 13.1
+17:03:15 up  5:35,  5 users,  load average: 3.67, 3.14, 1.90
+MiB Mem :   3794.5 total    878.6 free    672.4 used   2243.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3045.7 avail Mem 
+CPU 370.1
+MEM 13.1
+17:03:18 up  5:35,  5 users,  load average: 3.67, 3.14, 1.90
+MiB Mem :   3794.5 total    872.5 free    678.4 used   2243.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3039.6 avail Mem 
+CPU 368.1
+MEM 13.1
+17:03:21 up  5:35,  5 users,  load average: 3.70, 3.16, 1.91
+MiB Mem :   3794.5 total    871.9 free    679.0 used   2243.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3039.1 avail Mem 
+CPU 355.6
+MEM 13.1
+17:03:24 up  5:35,  5 users,  load average: 3.70, 3.16, 1.91
+MiB Mem :   3794.5 total    872.6 free    678.2 used   2243.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3039.8 avail Mem 
+CPU 360.9
+MEM 13.1
+17:03:27 up  5:35,  5 users,  load average: 3.72, 3.17, 1.92
+MiB Mem :   3794.5 total    877.0 free    673.9 used   2243.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3044.2 avail Mem 
+CPU 367.4
+MEM 13.1
+17:03:30 up  5:36,  5 users,  load average: 3.75, 3.18, 1.93
+MiB Mem :   3794.5 total    872.6 free    678.2 used   2243.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3039.8 avail Mem 
+CPU 368.4
+MEM 13.1
+17:03:33 up  5:36,  5 users,  load average: 3.75, 3.18, 1.93
+MiB Mem :   3794.5 total    873.3 free    677.4 used   2243.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3040.6 avail Mem 
+CPU 371.0
+MEM 13.1
+17:03:36 up  5:36,  5 users,  load average: 3.77, 3.20, 1.95
+MiB Mem :   3794.5 total    872.3 free    678.5 used   2243.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3039.6 avail Mem 
+CPU 369.6
+MEM 13.1
+17:03:39 up  5:36,  5 users,  load average: 3.87, 3.23, 1.96
+MiB Mem :   3794.5 total    873.9 free    676.9 used   2243.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3041.2 avail Mem 
+CPU 363.8
+MEM 13.1
+17:03:42 up  5:36,  5 users,  load average: 3.87, 3.23, 1.96
+MiB Mem :   3794.5 total    877.4 free    673.3 used   2243.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3044.7 avail Mem 
+CPU 370.2
+MEM 13.1
+17:03:45 up  5:36,  5 users,  load average: 3.88, 3.24, 1.97
+MiB Mem :   3794.5 total    878.0 free    672.7 used   2243.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3045.3 avail Mem 
+CPU 371.4
+MEM 13.1
+17:03:48 up  5:36,  5 users,  load average: 3.88, 3.24, 1.97
+MiB Mem :   3794.5 total    871.3 free    679.5 used   2243.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3038.6 avail Mem 
+CPU 369.1
+MEM 13.1
+17:03:51 up  5:36,  5 users,  load average: 3.97, 3.27, 1.99
+MiB Mem :   3794.5 total    875.8 free    674.9 used   2243.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3043.1 avail Mem 
+CPU 369.3
+MEM 13.1
+17:03:55 up  5:36,  5 users,  load average: 3.97, 3.28, 2.00
+MiB Mem :   3794.5 total    873.6 free    677.1 used   2243.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3040.9 avail Mem 
+CPU 366.7
+MEM 13.1
+17:03:58 up  5:36,  5 users,  load average: 3.97, 3.28, 2.00
+MiB Mem :   3794.5 total    873.7 free    677.0 used   2243.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3041.0 avail Mem 
+CPU 366.4
+MEM 13.1
+17:04:01 up  5:36,  5 users,  load average: 3.97, 3.29, 2.01
+MiB Mem :   3794.5 total    871.6 free    679.1 used   2243.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3038.9 avail Mem 
+CPU 370.4
+MEM 13.1
+17:04:04 up  5:36,  5 users,  load average: 3.97, 3.29, 2.01
+MiB Mem :   3794.5 total    874.5 free    676.2 used   2243.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3041.8 avail Mem 
+CPU 369.6
+MEM 13.1
+17:04:07 up  5:36,  5 users,  load average: 3.97, 3.31, 2.02
+MiB Mem :   3794.5 total    873.7 free    676.9 used   2243.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3041.1 avail Mem 
+CPU 371.6
+MEM 13.1
+17:04:10 up  5:36,  5 users,  load average: 3.98, 3.32, 2.03
+MiB Mem :   3794.5 total    873.6 free    677.1 used   2243.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3041.0 avail Mem 
+CPU 369.6
+MEM 13.1
+17:04:13 up  5:36,  5 users,  load average: 3.98, 3.32, 2.03
+MiB Mem :   3794.5 total    876.5 free    674.2 used   2243.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3043.8 avail Mem 
+CPU 363.2
+MEM 13.1
+17:04:16 up  5:36,  5 users,  load average: 3.90, 3.31, 2.04
+MiB Mem :   3794.5 total    875.6 free    675.1 used   2243.9 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3043.0 avail Mem 
+CPU 368.3
+MEM 13.1
+17:04:19 up  5:36,  5 users,  load average: 3.90, 3.31, 2.04
+MiB Mem :   3794.5 total    871.2 free    679.4 used   2243.9 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3038.6 avail Mem 
+CPU 367.8
+MEM 13.1
+17:04:22 up  5:36,  5 users,  load average: 3.91, 3.32, 2.05
+MiB Mem :   3794.5 total    876.7 free    674.0 used   2243.9 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3044.1 avail Mem 
+CPU 369.0
+MEM 13.1
+17:04:25 up  5:36,  5 users,  load average: 3.91, 3.34, 2.06
+MiB Mem :   3794.5 total    872.7 free    677.9 used   2243.9 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3040.1 avail Mem 
+CPU 367.5
+MEM 13.1
+17:04:28 up  5:36,  5 users,  load average: 3.91, 3.34, 2.06
+MiB Mem :   3794.5 total    874.9 free    675.7 used   2243.9 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3042.4 avail Mem 
+CPU 368.0
+MEM 13.1
+17:04:31 up  5:37,  5 users,  load average: 3.92, 3.35, 2.07
+MiB Mem :   3794.5 total    872.8 free    677.8 used   2243.9 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3040.2 avail Mem 
+CPU 368.5
+MEM 13.1
+17:04:34 up  5:37,  5 users,  load average: 3.92, 3.35, 2.07
+MiB Mem :   3794.5 total    875.2 free    675.4 used   2243.9 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3042.6 avail Mem 
+CPU 369.1
+MEM 13.1
+17:04:37 up  5:37,  5 users,  load average: 4.01, 3.37, 2.09
+MiB Mem :   3794.5 total    872.7 free    677.9 used   2243.9 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3040.1 avail Mem 
+CPU 361.3
+MEM 13.1
+17:04:40 up  5:37,  5 users,  load average: 4.01, 3.39, 2.10
+MiB Mem :   3794.5 total    878.5 free    672.0 used   2243.9 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3046.0 avail Mem 
+CPU 365.5
+MEM 13.1
+17:04:43 up  5:37,  5 users,  load average: 4.01, 3.39, 2.10
+MiB Mem :   3794.5 total    871.3 free    679.3 used   2243.9 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3038.7 avail Mem 
+CPU 364.4
+MEM 13.1
+17:04:46 up  5:37,  5 users,  load average: 4.01, 3.40, 2.11
+MiB Mem :   3794.5 total    872.2 free    678.4 used   2244.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3039.7 avail Mem 
+CPU 374.2
+MEM 13.1
+17:04:49 up  5:37,  5 users,  load average: 4.01, 3.40, 2.11
+MiB Mem :   3794.5 total    870.6 free    679.9 used   2244.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3038.1 avail Mem 
+CPU 362.5
+MEM 13.1
+17:04:52 up  5:37,  5 users,  load average: 4.01, 3.41, 2.12
+MiB Mem :   3794.5 total    873.5 free    677.0 used   2244.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3041.0 avail Mem 
+CPU 370.0
+MEM 13.1
+17:04:55 up  5:37,  5 users,  load average: 4.00, 3.42, 2.13
+MiB Mem :   3794.5 total    874.4 free    676.2 used   2244.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3041.9 avail Mem 
+CPU 366.3
+MEM 13.1
+17:04:58 up  5:37,  5 users,  load average: 4.00, 3.42, 2.13
+MiB Mem :   3794.5 total    875.3 free    675.2 used   2244.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3042.8 avail Mem 
+CPU 370.5
+MEM 13.1
+17:05:01 up  5:37,  5 users,  load average: 4.00, 3.43, 2.14
+MiB Mem :   3794.5 total    872.8 free    677.7 used   2244.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3040.3 avail Mem 
+CPU 368.3
+MEM 13.1
+17:05:04 up  5:37,  5 users,  load average: 4.00, 3.43, 2.14
+MiB Mem :   3794.5 total    870.7 free    679.8 used   2244.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3038.2 avail Mem 
+CPU 363.7
+MEM 13.1
+17:05:07 up  5:37,  5 users,  load average: 4.00, 3.44, 2.15
+MiB Mem :   3794.5 total    874.4 free    676.1 used   2244.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3042.0 avail Mem 
+CPU 365.8
+MEM 13.1
+17:05:10 up  5:37,  5 users,  load average: 4.00, 3.45, 2.16
+MiB Mem :   3794.5 total    871.4 free    679.0 used   2244.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3039.0 avail Mem 
+CPU 367.9
+MEM 13.1
+17:05:13 up  5:37,  5 users,  load average: 4.00, 3.45, 2.16
+MiB Mem :   3794.5 total    876.9 free    673.5 used   2244.1 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3044.5 avail Mem 
+CPU 366.4
+MEM 13.1
+17:05:16 up  5:37,  5 users,  load average: 4.00, 3.45, 2.17
+MiB Mem :   3794.5 total    877.0 free    678.1 used   2239.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3039.9 avail Mem 
+CPU 381.6
+MEM 13.2
+17:05:19 up  5:37,  5 users,  load average: 4.00, 3.46, 2.18
+MiB Mem :   3794.5 total    879.6 free    681.0 used   2233.9 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3037.1 avail Mem 
+CPU 367.2
+MEM 13.2
+17:05:22 up  5:37,  5 users,  load average: 4.00, 3.46, 2.18
+MiB Mem :   3794.5 total    880.0 free    680.6 used   2233.9 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3037.5 avail Mem 
+CPU 370.5
+MEM 13.2
+17:05:25 up  5:37,  5 users,  load average: 4.00, 3.47, 2.19
+MiB Mem :   3794.5 total    879.7 free    680.8 used   2234.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3037.2 avail Mem 
+CPU 366.7
+MEM 13.2
+17:05:29 up  5:38,  5 users,  load average: 4.00, 3.47, 2.19
+MiB Mem :   3794.5 total    881.6 free    678.9 used   2234.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3039.1 avail Mem 
+CPU 365.8
+MEM 13.2
+17:05:32 up  5:38,  5 users,  load average: 4.00, 3.48, 2.20
+MiB Mem :   3794.5 total    881.4 free    679.1 used   2234.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3038.9 avail Mem 
+CPU 371.2
+MEM 13.2
+17:05:35 up  5:38,  5 users,  load average: 4.00, 3.49, 2.21
+MiB Mem :   3794.5 total    879.2 free    681.3 used   2234.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3036.8 avail Mem 
+CPU 363.2
+MEM 13.2
+17:05:38 up  5:38,  5 users,  load average: 4.00, 3.49, 2.21
+MiB Mem :   3794.5 total    884.4 free    676.1 used   2234.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3041.9 avail Mem 
+CPU 370.7
+MEM 13.2
+17:05:41 up  5:38,  5 users,  load average: 4.00, 3.50, 2.22
+MiB Mem :   3794.5 total    878.8 free    681.6 used   2234.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3036.4 avail Mem 
+CPU 368.0
+MEM 13.3
+17:05:44 up  5:38,  5 users,  load average: 4.00, 3.50, 2.22
+MiB Mem :   3794.5 total    878.4 free    682.1 used   2234.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3036.0 avail Mem 
+CPU 364.9
+MEM 13.3
+17:05:47 up  5:38,  5 users,  load average: 4.00, 3.51, 2.23
+MiB Mem :   3794.5 total    877.5 free    682.9 used   2234.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3035.1 avail Mem 
+CPU 365.9
+MEM 13.3
+17:05:50 up  5:38,  5 users,  load average: 4.00, 3.52, 2.24
+MiB Mem :   3794.5 total    877.8 free    682.7 used   2234.1 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3035.3 avail Mem 
+CPU 364.4
+MEM 13.3
+17:05:53 up  5:38,  5 users,  load average: 4.00, 3.52, 2.24
+MiB Mem :   3794.5 total    879.4 free    681.0 used   2234.1 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3037.0 avail Mem 
+CPU 369.2
+MEM 13.3
+17:05:56 up  5:38,  5 users,  load average: 4.00, 3.52, 2.25
+MiB Mem :   3794.5 total    880.3 free    680.2 used   2234.1 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3037.8 avail Mem 
+CPU 362.2
+MEM 13.3
+17:05:59 up  5:38,  5 users,  load average: 4.00, 3.52, 2.25
+MiB Mem :   3794.5 total    877.8 free    682.7 used   2234.1 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3035.3 avail Mem 
+CPU 370.6
+MEM 13.3
+17:06:02 up  5:38,  5 users,  load average: 4.00, 3.53, 2.26
+MiB Mem :   3794.5 total    884.0 free    676.4 used   2234.1 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3041.6 avail Mem 
+CPU 367.1
+MEM 13.3
+17:06:05 up  5:38,  5 users,  load average: 4.00, 3.54, 2.27
+MiB Mem :   3794.5 total    880.2 free    680.2 used   2234.1 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3037.8 avail Mem 
+CPU 365.5
+MEM 13.3
+17:06:08 up  5:38,  5 users,  load average: 4.00, 3.54, 2.27
+MiB Mem :   3794.5 total    878.5 free    681.9 used   2234.1 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3036.1 avail Mem 
+CPU 371.7
+MEM 13.3
+17:06:11 up  5:38,  5 users,  load average: 4.00, 3.55, 2.28
+MiB Mem :   3794.5 total    882.1 free    678.3 used   2234.1 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3039.7 avail Mem 
+CPU 367.9
+MEM 13.3
+17:06:14 up  5:38,  5 users,  load average: 4.00, 3.55, 2.28
+MiB Mem :   3794.5 total    880.1 free    680.2 used   2234.1 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3037.8 avail Mem 
+CPU 363.0
+MEM 13.3
+17:06:17 up  5:38,  5 users,  load average: 3.68, 3.49, 2.27
+MiB Mem :   3794.5 total    881.1 free    679.3 used   2234.1 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3038.8 avail Mem 
+CPU 262.7
+MEM 13.3
+17:06:20 up  5:38,  5 users,  load average: 3.71, 3.50, 2.28
+MiB Mem :   3794.5 total    880.2 free    680.2 used   2234.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3037.9 avail Mem 
+CPU 0.3
+MEM 13.3
+17:06:23 up  5:38,  5 users,  load average: 3.71, 3.50, 2.28
+MiB Mem :   3794.5 total    877.5 free    682.8 used   2234.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3035.2 avail Mem 
+CPU 295.7
+MEM 13.3
+17:06:26 up  5:38,  5 users,  load average: 3.57, 3.47, 2.27
+MiB Mem :   3794.5 total    880.3 free    680.0 used   2234.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3038.0 avail Mem 
+CPU 364.8
+MEM 13.3
+17:06:29 up  5:39,  5 users,  load average: 3.57, 3.47, 2.27
+MiB Mem :   3794.5 total    877.1 free    683.1 used   2234.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3034.9 avail Mem 
+CPU 368.9
+MEM 13.3
+17:06:32 up  5:39,  5 users,  load average: 3.60, 3.48, 2.28
+MiB Mem :   3794.5 total    876.7 free    683.6 used   2234.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3034.4 avail Mem 
+CPU 367.7
+MEM 13.3
+17:06:35 up  5:39,  5 users,  load average: 3.64, 3.49, 2.29
+MiB Mem :   3794.5 total    877.9 free    682.3 used   2234.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3035.7 avail Mem 
+CPU 361.8
+MEM 13.3
+17:06:38 up  5:39,  5 users,  load average: 3.64, 3.49, 2.29
+MiB Mem :   3794.5 total    878.6 free    681.6 used   2234.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3036.4 avail Mem 
+CPU 360.1
+MEM 13.3
+17:06:41 up  5:39,  5 users,  load average: 3.50, 3.47, 2.29
+MiB Mem :   3794.5 total    875.7 free    684.5 used   2234.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3033.5 avail Mem 
+CPU 320.1
+MEM 13.3
+17:06:44 up  5:39,  5 users,  load average: 3.50, 3.47, 2.29
+MiB Mem :   3794.5 total    878.2 free    682.0 used   2234.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3036.0 avail Mem 
+CPU 286.8
+MEM 13.3
+17:06:47 up  5:39,  5 users,  load average: 3.38, 3.44, 2.29
+MiB Mem :   3794.5 total    874.8 free    685.3 used   2234.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3032.7 avail Mem 
+CPU 267.3
+MEM 13.3
+17:06:50 up  5:39,  5 users,  load average: 3.19, 3.40, 2.28
+MiB Mem :   3794.5 total    875.4 free    684.7 used   2234.4 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3033.3 avail Mem 
+CPU 191.1
+MEM 13.3
+17:06:53 up  5:39,  5 users,  load average: 3.19, 3.40, 2.28
+MiB Mem :   3794.5 total    876.2 free    683.9 used   2234.4 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3034.1 avail Mem 
+CPU 192.1
+MEM 13.3
+17:06:56 up  5:39,  5 users,  load average: 3.50, 3.46, 2.31
+MiB Mem :   3794.5 total    878.0 free    686.2 used   2230.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3031.8 avail Mem 
+CPU 190.1
+MEM 13.4
+17:07:00 up  5:39,  5 users,  load average: 3.62, 3.49, 2.32
+MiB Mem :   3794.5 total    847.3 free    731.2 used   2216.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2986.8 avail Mem 
+CPU 337.3
+MEM 14.2
+17:07:03 up  5:39,  5 users,  load average: 3.62, 3.49, 2.32
+MiB Mem :   3794.5 total    836.1 free    742.2 used   2216.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2975.8 avail Mem 
+CPU 341.8
+MEM 14.3
+17:07:06 up  5:39,  5 users,  load average: 3.73, 3.51, 2.34
+MiB Mem :   3794.5 total    832.7 free    745.3 used   2216.5 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2972.7 avail Mem 
+CPU 354.3
+MEM 14.4
+17:07:09 up  5:39,  5 users,  load average: 3.73, 3.51, 2.34
+MiB Mem :   3794.5 total    829.7 free    748.1 used   2216.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2969.9 avail Mem 
+CPU 351.2
+MEM 14.5
+17:07:12 up  5:39,  5 users,  load average: 3.91, 3.55, 2.36
+MiB Mem :   3794.5 total    823.1 free    754.6 used   2216.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2963.4 avail Mem 
+CPU 255.8
+MEM 14.6
+17:07:15 up  5:39,  5 users,  load average: 3.92, 3.56, 2.37
+MiB Mem :   3794.5 total    816.9 free    760.6 used   2217.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2957.4 avail Mem 
+CPU 338.3
+MEM 14.8
+17:07:18 up  5:39,  5 users,  load average: 3.92, 3.56, 2.37
+MiB Mem :   3794.5 total    811.9 free    765.4 used   2217.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2952.6 avail Mem 
+CPU 329.3
+MEM 14.9
+17:07:21 up  5:39,  5 users,  load average: 4.73, 3.73, 2.43
+MiB Mem :   3794.5 total    806.5 free    770.7 used   2217.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2947.3 avail Mem 
+CPU 336.4
+MEM 15.0
+17:07:24 up  5:39,  5 users,  load average: 4.73, 3.73, 2.43
+MiB Mem :   3794.5 total    801.6 free    775.4 used   2217.5 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2942.6 avail Mem 
+CPU 346.2
+MEM 15.2
+17:07:27 up  5:39,  5 users,  load average: 4.75, 3.76, 2.44
+MiB Mem :   3794.5 total    800.1 free    776.8 used   2217.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2941.2 avail Mem 
+CPU 317.3
+MEM 15.2
+17:07:30 up  5:40,  5 users,  load average: 4.53, 3.73, 2.44
+MiB Mem :   3794.5 total    794.2 free    782.5 used   2217.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2935.5 avail Mem 
+CPU 345.0
+MEM 15.4
+17:07:33 up  5:40,  5 users,  load average: 4.53, 3.73, 2.44
+MiB Mem :   3794.5 total    793.2 free    783.4 used   2217.9 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2934.6 avail Mem 
+CPU 318.0
+MEM 15.4
+17:07:36 up  5:40,  5 users,  load average: 4.41, 3.71, 2.44
+MiB Mem :   3794.5 total    790.3 free    786.1 used   2218.1 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2931.9 avail Mem 
+CPU 341.8
+MEM 15.4
+17:07:39 up  5:40,  5 users,  load average: 4.41, 3.71, 2.44
+MiB Mem :   3794.5 total    758.0 free    818.1 used   2218.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2899.8 avail Mem 
+CPU 299.0
+MEM 16.2
+17:07:42 up  5:40,  5 users,  load average: 4.45, 3.74, 2.46
+MiB Mem :   3794.5 total    757.8 free    818.3 used   2218.4 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2899.7 avail Mem 
+CPU 166.9
+MEM 16.2
+17:07:45 up  5:40,  5 users,  load average: 4.66, 3.79, 2.48
+MiB Mem :   3794.5 total    759.5 free    816.1 used   2218.9 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2901.9 avail Mem 
+CPU 285.9
+MEM 16.2
+17:07:48 up  5:40,  5 users,  load average: 4.66, 3.79, 2.48
+MiB Mem :   3794.5 total    753.2 free    822.2 used   2219.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2895.7 avail Mem 
+CPU 312.8
+MEM 16.3
+17:07:51 up  5:40,  5 users,  load average: 4.44, 3.76, 2.48
+MiB Mem :   3794.5 total    752.5 free    822.7 used   2219.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2895.2 avail Mem 
+CPU 201.0
+MEM 16.3
+17:07:54 up  5:40,  5 users,  load average: 4.44, 3.76, 2.48
+MiB Mem :   3794.5 total    751.8 free    823.1 used   2219.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2894.8 avail Mem 
+CPU 287.5
+MEM 16.3
+17:07:57 up  5:40,  5 users,  load average: 4.25, 3.73, 2.48
+MiB Mem :   3794.5 total    751.8 free    822.9 used   2219.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2895.0 avail Mem 
+CPU 274.5
+MEM 16.3
+17:08:00 up  5:40,  5 users,  load average: 4.47, 3.79, 2.50
+MiB Mem :   3794.5 total    751.6 free    822.9 used   2220.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2895.0 avail Mem 
+CPU 296.7
+MEM 16.3
+17:08:03 up  5:40,  5 users,  load average: 4.47, 3.79, 2.50
+MiB Mem :   3794.5 total    750.1 free    824.3 used   2220.1 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2893.7 avail Mem 
+CPU 157.8
+MEM 16.4
+17:08:06 up  5:40,  5 users,  load average: 4.51, 3.81, 2.51
+MiB Mem :   3794.5 total    748.0 free    826.1 used   2220.4 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2891.8 avail Mem 
+CPU 256.4
+MEM 16.4
+17:08:09 up  5:40,  5 users,  load average: 4.51, 3.81, 2.51
+MiB Mem :   3794.5 total    739.0 free    834.9 used   2220.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2883.1 avail Mem 
+CPU 326.7
+MEM 16.6
+17:08:12 up  5:40,  5 users,  load average: 4.47, 3.81, 2.52
+MiB Mem :   3794.5 total    738.5 free    835.0 used   2221.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2882.9 avail Mem 
+CPU 282.2
+MEM 16.6
+17:08:15 up  5:40,  5 users,  load average: 4.51, 3.83, 2.54
+MiB Mem :   3794.5 total    738.1 free    835.3 used   2221.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2882.7 avail Mem 
+CPU 131.8
+MEM 16.6
+17:08:18 up  5:40,  5 users,  load average: 4.51, 3.83, 2.54
+MiB Mem :   3794.5 total    718.9 free    854.2 used   2221.4 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2863.7 avail Mem 
+CPU 263.6
+MEM 17.1
+17:08:21 up  5:40,  5 users,  load average: 4.39, 3.82, 2.54
+MiB Mem :   3794.5 total    698.5 free    874.1 used   2221.9 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2843.9 avail Mem 
+CPU 192.7
+MEM 17.5
+17:08:24 up  5:40,  5 users,  load average: 4.39, 3.82, 2.54
+MiB Mem :   3794.5 total    665.3 free    906.6 used   2222.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2811.4 avail Mem 
+CPU 252.8
+MEM 18.4
+17:08:28 up  5:40,  5 users,  load average: 5.00, 3.95, 2.59
+MiB Mem :   3794.5 total    662.1 free    909.9 used   2222.5 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2808.0 avail Mem 
+CPU 307.2
+MEM 18.5
+17:08:31 up  5:41,  5 users,  load average: 4.68, 3.90, 2.58
+MiB Mem :   3794.5 total    659.4 free    912.5 used   2222.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2805.4 avail Mem 
+CPU 309.2
+MEM 18.5
+17:08:34 up  5:41,  5 users,  load average: 4.68, 3.90, 2.58
+MiB Mem :   3794.5 total    645.1 free    926.3 used   2223.1 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2791.6 avail Mem 
+CPU 91.4
+MEM 18.9
+17:08:37 up  5:41,  5 users,  load average: 5.03, 3.99, 2.62
+MiB Mem :   3794.5 total    630.6 free    940.7 used   2223.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2777.2 avail Mem 
+CPU 252.5
+MEM 19.3
+17:08:40 up  5:41,  5 users,  load average: 4.86, 3.97, 2.62
+MiB Mem :   3794.5 total    625.0 free    946.1 used   2223.4 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2771.8 avail Mem 
+CPU 279.9
+MEM 19.4
+17:08:43 up  5:41,  5 users,  load average: 4.86, 3.97, 2.62
+MiB Mem :   3794.5 total    610.7 free    959.0 used   2224.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2758.9 avail Mem 
+CPU 245.4
+MEM 19.7
+17:08:46 up  5:41,  5 users,  load average: 4.55, 3.92, 2.61
+MiB Mem :   3794.5 total    586.0 free    984.7 used   2223.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2733.2 avail Mem 
+CPU 302.6
+MEM 20.4
+17:08:49 up  5:41,  5 users,  load average: 4.55, 3.92, 2.61
+MiB Mem :   3794.5 total    553.9 free   1016.0 used   2224.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2702.0 avail Mem 
+CPU 242.6
+MEM 21.2
+17:08:52 up  5:41,  5 users,  load average: 4.35, 3.89, 2.61
+MiB Mem :   3794.5 total    553.2 free   1017.1 used   2224.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2700.9 avail Mem 
+CPU 210.9
+MEM 21.2
+17:08:55 up  5:41,  5 users,  load average: 4.16, 3.86, 2.60
+MiB Mem :   3794.5 total    552.7 free   1017.3 used   2224.5 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2700.7 avail Mem 
+CPU 266.3
+MEM 21.3
+17:08:58 up  5:41,  5 users,  load average: 4.16, 3.86, 2.60
+MiB Mem :   3794.5 total    539.3 free   1030.4 used   2224.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2687.5 avail Mem 
+CPU 72.5
+MEM 21.6
+17:09:01 up  5:41,  5 users,  load average: 3.91, 3.81, 2.59
+MiB Mem :   3794.5 total    516.2 free   1053.2 used   2225.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2664.8 avail Mem 
+CPU 16.6
+MEM 22.2
+17:09:04 up  5:41,  5 users,  load average: 3.91, 3.81, 2.59
+MiB Mem :   3794.5 total    515.7 free   1053.7 used   2225.1 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2664.3 avail Mem 
+CPU 26.5
+MEM 22.2
+17:09:07 up  5:41,  5 users,  load average: 3.67, 3.76, 2.58
+MiB Mem :   3794.5 total    513.8 free   1055.5 used   2225.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2662.5 avail Mem 
+CPU 16.2
+MEM 22.2
+17:09:10 up  5:41,  5 users,  load average: 3.54, 3.73, 2.58
+MiB Mem :   3794.5 total    513.6 free   1055.6 used   2225.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2662.3 avail Mem 
+CPU 38.4
+MEM 22.2
+17:09:13 up  5:41,  5 users,  load average: 3.54, 3.73, 2.58
+MiB Mem :   3794.5 total    512.8 free   1056.4 used   2225.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2661.6 avail Mem 
+CPU 15.2
+MEM 22.2
+17:09:16 up  5:41,  5 users,  load average: 3.34, 3.69, 2.57
+MiB Mem :   3794.5 total    512.8 free   1057.2 used   2224.4 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2660.8 avail Mem 
+CPU 36.1
+MEM 22.2
+17:09:19 up  5:41,  5 users,  load average: 3.34, 3.69, 2.57
+MiB Mem :   3794.5 total    512.8 free   1057.1 used   2224.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2660.9 avail Mem 
+CPU 13.2
+MEM 22.2
+17:09:22 up  5:41,  5 users,  load average: 3.15, 3.64, 2.56
+MiB Mem :   3794.5 total    512.9 free   1057.0 used   2224.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2661.0 avail Mem 
+CPU 31.6
+MEM 22.2
+17:09:25 up  5:41,  5 users,  load average: 3.06, 3.62, 2.56
+MiB Mem :   3794.5 total    512.4 free   1057.5 used   2224.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2660.5 avail Mem 
+CPU 13.9
+MEM 22.2
+17:09:28 up  5:41,  5 users,  load average: 3.06, 3.62, 2.56
+MiB Mem :   3794.5 total    512.4 free   1057.4 used   2224.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2660.6 avail Mem 
+CPU 33.6
+MEM 22.2
+17:09:31 up  5:42,  5 users,  load average: 2.97, 3.59, 2.56
+MiB Mem :   3794.5 total    512.6 free   1057.1 used   2224.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2660.8 avail Mem 
+CPU 36.4
+MEM 22.2
+17:09:34 up  5:42,  5 users,  load average: 2.97, 3.59, 2.56
+MiB Mem :   3794.5 total    512.6 free   1057.0 used   2224.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2660.9 avail Mem 
+CPU 35.8
+MEM 22.2
+17:09:37 up  5:42,  5 users,  load average: 2.97, 3.58, 2.56
+MiB Mem :   3794.5 total    512.7 free   1057.1 used   2224.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2660.9 avail Mem 
+CPU 35.4
+MEM 22.2
+17:09:40 up  5:42,  5 users,  load average: 3.14, 3.60, 2.57
+MiB Mem :   3794.5 total    512.2 free   1057.5 used   2224.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2660.4 avail Mem 
+CPU 15.2
+MEM 22.2
+17:09:43 up  5:42,  5 users,  load average: 3.14, 3.60, 2.57
+MiB Mem :   3794.5 total    512.2 free   1057.6 used   2224.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2660.5 avail Mem 
+CPU 29.8
+MEM 22.2
+17:09:46 up  5:42,  5 users,  load average: 3.05, 3.58, 2.57
+MiB Mem :   3794.5 total    512.2 free   1057.4 used   2224.9 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2660.6 avail Mem 
+CPU 15.6
+MEM 22.3
+17:09:49 up  5:42,  5 users,  load average: 3.05, 3.58, 2.57
+MiB Mem :   3794.5 total    512.0 free   1057.7 used   2224.8 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2660.3 avail Mem 
+CPU 29.5
+MEM 22.3
+17:09:52 up  5:42,  5 users,  load average: 3.12, 3.58, 2.58
+MiB Mem :   3794.5 total    512.0 free   1057.6 used   2225.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2660.4 avail Mem 
+CPU 14.1
+MEM 22.3
+17:09:55 up  5:42,  5 users,  load average: 3.19, 3.59, 2.58
+MiB Mem :   3794.5 total    511.5 free   1058.1 used   2224.9 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2659.9 avail Mem 
+CPU 38.7
+MEM 22.3
+17:09:58 up  5:42,  5 users,  load average: 3.19, 3.59, 2.58
+MiB Mem :   3794.5 total    511.5 free   1058.1 used   2224.9 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2659.9 avail Mem 
+CPU 26.9
+MEM 22.3
+17:10:01 up  5:42,  5 users,  load average: 2.94, 3.53, 2.57
+MiB Mem :   3794.5 total    511.7 free   1057.8 used   2225.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2660.2 avail Mem 
+CPU 16.6
+MEM 22.3
+17:10:04 up  5:42,  5 users,  load average: 2.94, 3.53, 2.57
+MiB Mem :   3794.5 total    511.2 free   1058.1 used   2225.1 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2659.9 avail Mem 
+CPU 12.9
+MEM 22.3
+17:10:07 up  5:42,  5 users,  load average: 2.70, 3.47, 2.56
+MiB Mem :   3794.5 total    511.5 free   1057.8 used   2225.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2660.2 avail Mem 
+CPU 19.2
+MEM 22.3
+17:10:10 up  5:42,  5 users,  load average: 2.56, 3.43, 2.55
+MiB Mem :   3794.5 total    504.8 free   1064.7 used   2225.0 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2653.4 avail Mem 
+CPU 19.5
+MEM 22.5
+17:10:13 up  5:42,  5 users,  load average: 2.56, 3.43, 2.55
+MiB Mem :   3794.5 total    504.8 free   1064.5 used   2225.1 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2653.4 avail Mem 
+CPU 15.6
+MEM 22.5
+17:10:16 up  5:42,  5 users,  load average: 2.44, 3.39, 2.54
+MiB Mem :   3794.5 total    504.1 free   1065.1 used   2225.2 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2652.8 avail Mem 
+CPU 13.6
+MEM 22.5
+17:10:19 up  5:42,  5 users,  load average: 2.44, 3.39, 2.54
+MiB Mem :   3794.5 total    503.9 free   1065.3 used   2225.3 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   2652.7 avail Mem 
+CPU 16.9
+MEM 22.5
+17:10:22 up  5:42,  5 users,  load average: 2.24, 3.33, 2.53
+MiB Mem :   3794.5 total   1361.4 free    215.2 used   2217.9 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3502.8 avail Mem 
+CPU 0
+MEM 0
+17:10:25 up  5:42,  5 users,  load average: 2.06, 3.28, 2.51
+MiB Mem :   3794.5 total   1382.7 free    194.2 used   2217.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3523.9 avail Mem 
+CPU 0
+MEM 0
+17:10:29 up  5:43,  5 users,  load average: 2.06, 3.28, 2.51
+MiB Mem :   3794.5 total   1382.7 free    194.1 used   2217.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3523.9 avail Mem 
+CPU 0
+MEM 0
+17:10:32 up  5:43,  5 users,  load average: 1.90, 3.22, 2.50
+MiB Mem :   3794.5 total   1382.7 free    194.1 used   2217.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3523.9 avail Mem 
+CPU 0
+MEM 0
+17:10:35 up  5:43,  5 users,  load average: 1.90, 3.22, 2.50
+MiB Mem :   3794.5 total   1382.7 free    194.1 used   2217.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3523.9 avail Mem 
+CPU 0
+MEM 0
+17:10:38 up  5:43,  5 users,  load average: 1.75, 3.17, 2.48
+MiB Mem :   3794.5 total   1383.0 free    193.9 used   2217.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3524.2 avail Mem 
+CPU 0
+MEM 0
+17:10:41 up  5:43,  5 users,  load average: 1.61, 3.12, 2.47
+MiB Mem :   3794.5 total   1382.8 free    194.1 used   2217.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3523.9 avail Mem 
+CPU 0
+MEM 0
+17:10:44 up  5:43,  5 users,  load average: 1.61, 3.12, 2.47
+MiB Mem :   3794.5 total   1382.8 free    194.1 used   2217.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3523.9 avail Mem 
+CPU 0
+MEM 0
+17:10:47 up  5:43,  5 users,  load average: 1.48, 3.06, 2.46
+MiB Mem :   3794.5 total   1382.4 free    194.4 used   2217.6 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3523.6 avail Mem 
+CPU 0
+MEM 0
+17:10:50 up  5:43,  5 users,  load average: 1.36, 3.01, 2.44
+MiB Mem :   3794.5 total   1382.7 free    194.2 used   2217.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3523.8 avail Mem 
+CPU 0
+MEM 0
+17:10:53 up  5:43,  5 users,  load average: 1.36, 3.01, 2.44
+MiB Mem :   3794.5 total   1382.8 free    194.1 used   2217.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3523.9 avail Mem 
+CPU 0
+MEM 0
+17:10:56 up  5:43,  5 users,  load average: 1.25, 2.96, 2.43
+MiB Mem :   3794.5 total   1382.8 free    194.0 used   2217.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3523.9 avail Mem 
+CPU 0
+MEM 0
+17:10:59 up  5:43,  5 users,  load average: 1.25, 2.96, 2.43
+MiB Mem :   3794.5 total   1382.8 free    194.0 used   2217.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3523.9 avail Mem 
+CPU 0
+MEM 0
+17:11:02 up  5:43,  5 users,  load average: 1.15, 2.91, 2.42
+MiB Mem :   3794.5 total   1382.8 free    194.0 used   2217.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3523.9 avail Mem 
+CPU 0
+MEM 0
+17:11:05 up  5:43,  5 users,  load average: 1.06, 2.86, 2.40
+MiB Mem :   3794.5 total   1382.9 free    193.9 used   2217.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3524.1 avail Mem 
+CPU 0
+MEM 0
+17:11:08 up  5:43,  5 users,  load average: 1.06, 2.86, 2.40
+MiB Mem :   3794.5 total   1383.0 free    193.8 used   2217.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3524.3 avail Mem 
+CPU 0
+MEM 0
+17:11:11 up  5:43,  5 users,  load average: 0.97, 2.82, 2.39
+MiB Mem :   3794.5 total   1383.0 free    193.8 used   2217.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3524.3 avail Mem 
+CPU 0
+MEM 0
+17:11:14 up  5:43,  5 users,  load average: 0.97, 2.82, 2.39
+MiB Mem :   3794.5 total   1383.0 free    193.8 used   2217.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3524.3 avail Mem 
+CPU 0
+MEM 0
+17:11:17 up  5:43,  5 users,  load average: 0.89, 2.77, 2.38
+MiB Mem :   3794.5 total   1383.4 free    193.3 used   2217.7 buff/cache
+MiB Swap:   4601.0 total   4600.7 free      0.2 used   3524.7 avail Mem 
+CPU 0
+MEM 0
